@@ -42,8 +42,6 @@ print(resultado)
 #assert variable_02 is False
 
 
-
-
 """
 Interpretar como booleano la siguente variable y guardar el valor resultante en variable_03
 """
